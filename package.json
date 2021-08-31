@@ -1,0 +1,15 @@
+{
+  "name": "muzdahir-template",
+  "version": "1.0.0",
+  "description": "Muzdahir Admin Template",
+  "main": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ahmad Habbuddin",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.1.0",
+    "jquery": "^3.6.0"
+  }
+}
