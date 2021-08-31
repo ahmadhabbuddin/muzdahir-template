@@ -14,5 +14,5 @@
 No license
 
 ## About the Author
-Mazer is created by <a href="https://github.com/ahmadhabbuddin/">Ahmad Habbuddin</a>. 
+Muzdahir Template is created by <a href="https://github.com/ahmadhabbuddin/">Ahmad Habbuddin</a>. 
  
